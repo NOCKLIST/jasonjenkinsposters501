@@ -2,7 +2,7 @@
 
 [LIVE DEMO](http://thenocklist.com/jasonjenkinsposters/)
 
-1. DOWNLOAD THE [JASON JENKINS POSTERS CONTENT INTEGRATION SYSTEM V401 ZIP](https://github.com/NOCKLIST/jasonjenkinsposters501)
+1. DOWNLOAD THE [JASON JENKINS POSTERS CONTENT INTEGRATION SYSTEM V5.01 ZIP](https://github.com/NOCKLIST/jasonjenkinsposters501)
 
 2. REGISTER WITH [ZAZZLE](http://www.zazzle.com/)
 
